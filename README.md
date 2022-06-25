@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hardbitten
 - 👀 I’m interested in nodejs
-- 🌱 I’m currently learning Cassandra
+- 🌱 I’m currently learning tcp
 - 📫 How to reach me hardbitten7697@gmail.com
 
 <!---
